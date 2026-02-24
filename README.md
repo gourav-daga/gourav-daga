@@ -8,8 +8,8 @@ I am a quantitative researcher currently working as a Research Associate at the 
 Previously, I worked at a Sequoia-backed asset management firm where I co-managed systematic trading strategies, developed statistical arbitrage models using cointegration and time-series methods, and built machine learning systems for options pricing and volatility forecasting in live markets.
 
 My current research explores empirical likelihood and maximum entropy approaches for robust covariance estimation and portfolio risk measurement in high-dimensional settings.
----
 
+---
 ### Research Interests
 
 - Machine learning and deep learning for predictive modeling  
@@ -18,8 +18,8 @@ My current research explores empirical likelihood and maximum entropy approaches
 - Statistical learning and large-scale optimization  
 - Empirical likelihood and maximum entropy methods  
 - Random matrix theory for high-dimensional data analysis  
----
 
+---
 ### Tech Stack
 
 - Programming: Python, R, MATLAB, SQL  
@@ -28,8 +28,8 @@ My current research explores empirical likelihood and maximum entropy approaches
 - MLOps and Tools: Git, Docker (learning), ML workflow automation (learning)  
 - Data and Visualization: Power BI, Excel  
 - Systems: HPC and SLURM workflows  
----
 
+---
 ### Contact
 
 LinkedIn: www.linkedin.com/in/gourav-daga-51649918a 
