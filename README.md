@@ -30,7 +30,30 @@ My current research explores empirical likelihood and maximum entropy approaches
 - Systems: HPC and SLURM workflows  
 
 ---
+
+### Featured Projects
+
+- MaxE Covariance Estimator  
+- PSO for Spectral Optimization  
+- Statistical Arbitrage Framework  
+
+---
+
+### Research Publications
+
+- Jain, R., Daga, G., Bhattacharya, D., et al. (2023). Gender-Based Comparative Study of Type 2 Diabetes Risk
+Factors in Kolkata, India: Frequentist versus Bayesian Approach in Machine Learning.
+Project funded by Belle Vue Hospital and Lab.
+
+- Chakraborty, S., Bandyopadhyay, T., & Daga, G. (2024). Navigating the pitfalls of peeking: A statistical
+framework for robust sample size determination in A/B testing. Indian Institute of Management Calcutta.
+
+- Daga, G., & Saha, A. (2023). Improving the efficiency of Apriori Algorithm using Stratified Sampling
+Technique. In Proceedings of the 109th Indian Science Congress.
+
+---
 ### Contact
 
 - LinkedIn: www.linkedin.com/in/gourav-daga-51649918a 
 - Email: gouravdaga07@gmail.com
+
