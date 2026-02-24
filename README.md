@@ -32,5 +32,5 @@ My current research explores empirical likelihood and maximum entropy approaches
 ---
 ### Contact
 
-LinkedIn: www.linkedin.com/in/gourav-daga-51649918a 
-Email: gouravdaga07@gmail.com
+- LinkedIn: www.linkedin.com/in/gourav-daga-51649918a 
+- Email: gouravdaga07@gmail.com
