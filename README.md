@@ -22,12 +22,12 @@ My current research explores empirical likelihood and maximum entropy approaches
 
 ### Tech Stack
 
-Programming: Python, R, MATLAB, SQL  
-ML and AI: scikit-learn, NumPy, pandas, deep learning (PyTorch learning in progress)  
-Statistical Modeling: Time series analysis, multivariate methods, optimization  
-MLOps and Tools: Git, Docker (learning), ML workflow automation (learning)  
-Data and Visualization: Power BI, Excel  
-Systems: HPC and SLURM workflows  
+- Programming: Python, R, MATLAB, SQL  
+- ML and AI: scikit-learn, NumPy, pandas, deep learning (PyTorch learning in progress)  
+- Statistical Modeling: Time series analysis, multivariate methods, optimization  
+- MLOps and Tools: Git, Docker (learning), ML workflow automation (learning)  
+- Data and Visualization: Power BI, Excel  
+- Systems: HPC and SLURM workflows  
 ---
 
 ### Contact
